@@ -4,5 +4,5 @@ def square_array(array)
     puts "#{num *= num}"
     nu_array.pop(num)
   end
-  return 
+  return nu_array
 end
